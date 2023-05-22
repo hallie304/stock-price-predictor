@@ -11,10 +11,10 @@ def str_to_datetime(s):
         print(f"Invalid date string: {s}")
         return None
     
-def split_dataset(X_data, y_data, dates):
+def split_dataset(X_data, y_data, test_size):
     # Split data into train, val and test. Note that 'shuffle=False' due to time-series data.
-    X_train, X_test, y_train, y_test, train_dates, test_dates = train_test_split(X_data, y_data, dates, test_size=0.2, shuffle=False)
-    X_train, X_val, y_train, y_val, train_dates, val_dates = train_test_split(X_train, y_train, train_dates, test_size=0.2, shuffle=False)
+    X_train, X_test, y_train, y_test = train_test_split(X_data, y_data, test_size=test_size, shuffle=False)
+    X_train, X_val, y_train, y_val = train_test_split(X_train, y_train, test_size=test_size, shuffle=False)
 
     # Convert from lists to Numpy arrays for reshaping purpose
     X_train = np.array(X_train)
@@ -24,7 +24,7 @@ def split_dataset(X_data, y_data, dates):
     y_val = np.array(y_val)
     y_test = np.array(y_test)
 
-    return X_train, y_train, X_val, y_val, X_test, y_test, train_dates, val_dates, test_dates
+    return X_train, y_train, X_val, y_val, X_test, y_test 
 
 def normalize_data(X, y):
     # MinMax normalize the training data: x=(x-min(x)/(max(x)-min(x))
@@ -36,7 +36,7 @@ def normalize_data(X, y):
         X_norm[i] = (X[i] - min_feature) / (max_feature - min_feature)
         y_norm[i] = (y[i] - min_feature) / (max_feature - min_feature)
     return X_norm, y_norm
-def denorm_data(y_pred_norm):
+def denorm_data(y_pred_norm, X_test):
     y_pred_denorm = y_pred_norm
     for i in range(0, len(y_pred_denorm)): # denorm_x = norm_x * (max(x) - min(x)) + min(x)
         min_feature = np.min(X_test[i])

@@ -1,0 +1,9 @@
+exchange,shortName,industryID,industryIDv2,industry,industryEn,establishedYear,noEmployees,noShareholders,foreignPercent,website,stockRating,deltaInWeek,deltaInMonth,deltaInYear,outstandingShare,issueShare,companyType,ticker,status,code,message,traceId
+UPCOM,FPT Telecom,267.0,6535.0,Viễn thông,Telecommunications,2005.0,9412.0,564.0,0.0,http://www.fpt.vn,4.0,-0.015,-0.046,0.003,328.3,328.3,CT,FOX,,,,
+UPCOM,Mobifone Service,269.0,6575.0,Viễn thông,Telecommunications,2008.0,2010.0,1698.0,0.076,http://www.mobifoneservice.com.vn,3.8,0.049,0.032,0.212,7.1,7.1,CT,MFS,,,,
+UPCOM,"CNTT, VT và Tự động hóa Dầu khí - PAIC",267.0,6535.0,Viễn thông,Telecommunications,2009.0,84.0,106.0,0.001,http://www.paic.pvn.vn,3.9,-0.017,-0.042,0.239,4.2,4.2,CT,PAI,,,,
+HNX,Tin học Viễn thông Petrolimex,267.0,6535.0,Viễn thông,Telecommunications,2003.0,121.0,225.0,0.122,http://www.piacom.com.vn,4.2,0.038,0.004,0.152,3.9,3.9,CT,PIA,,,,
+UPCOM,Viễn Thông và In Bưu điện,267.0,6535.0,Viễn thông,Telecommunications,1957.0,200.0,0.0,0.0,http://www.ptp.vn,3.6,-0.017,0.104,-0.223,6.7,6.8,CT,PTP,,,,
+UPCOM,Công nghệ và Truyền thông VN,267.0,6535.0,Viễn thông,Telecommunications,2008.0,328.0,2493.0,0.004,http://www.vntt.com.vn,4.0,-0.039,0.042,-0.321,36.7,36.7,CT,TTN,,,,
+UPCOM,Truyền thông VMG,269.0,6575.0,Viễn thông,Telecommunications,2006.0,202.0,950.0,0.01,https://vmgmedia.vn/home/index,4.1,-0.017,-0.067,0.357,20.4,20.4,CT,ABC,,,,
+UPCOM,Đầu tư Quốc tế Viettel,269.0,6575.0,Viễn thông,Telecommunications,2007.0,5128.0,8169.0,0.001,http://www.viettelglobal.vn,3.6,0.033,0.007,-0.128,3043.8,3043.8,CT,VGI,,,,

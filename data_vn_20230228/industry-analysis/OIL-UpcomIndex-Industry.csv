@@ -1,0 +1,4 @@
+﻿,ticker,marcap,price,numberOfDays,priceToEarning,peg,priceToBook,valueBeforeEbitda,dividend,roe,roa,ebitOnInterest,bookValuePerShare,interestMargin,badDebtPercentage,currentPayment,quickPayment,grossProfitMargin,operatingProfitMargin,postTaxMargin,debtOnEquity,debtOnEbitda,income5year,sale5year,income1quarter,sale1quarter,nextIncome,nextSale,rsi,rs
+0,OIL,8979,8682,0,16.4,-1.7,0.9,12.3,0.0,0.054,0.02,4.4,,,,1.3,1.2,0.051,,0.009,0.2,3.8,0.088,0.118,,-0.05,0.702,0.55,43.0,43.0
+1,BSR,47614,15357,0,3.3,0.0,0.9,1.9,0.0,0.326,0.2,23.8,,,,2.3,1.6,0.043,,0.037,0.2,0.6,0.138,0.155,2.131,0.022,1.799,0.3,44.8,40.0
+2,PLX,47584,37450,4,32.1,-0.7,1.9,18.5,0.0,0.06,0.021,5.1,,,,1.1,0.7,0.055,,0.015,0.5,4.8,-0.157,0.146,10.805,0.064,-0.101,0.2,54.6,69.0

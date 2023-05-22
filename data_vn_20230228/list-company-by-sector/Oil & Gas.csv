@@ -1,0 +1,13 @@
+exchange,shortName,industryID,industryIDv2,industry,industryEn,establishedYear,noEmployees,noShareholders,foreignPercent,website,stockRating,deltaInWeek,deltaInMonth,deltaInYear,outstandingShare,issueShare,companyType,ticker,status,code,message,traceId
+UPCOM,Dịch vụ biển Tân Cảng,316.0,573.0,Dầu khí,Oil & Gas,2012.0,663.0,160.0,0.0,https://tancangoffshore.com,3.8,0.01,-0.016,-0.085,31.0,31.0,CT,TOS,,,,
+UPCOM,Lọc - Hóa dầu Bình Sơn,144.0,533.0,Dầu khí,Oil & Gas,2008.0,1502.0,42624.0,0.006,http://www.bsr.com.vn,4.2,-0.011,-0.068,-0.129,3100.5,244.1,CT,BSR,,,,
+UPCOM,Thiết bị xăng dầu Petrolimex,316.0,573.0,Dầu khí,Oil & Gas,2012.0,170.0,177.0,0.0,http://www.peco.com.vn,3.5,0.103,0.078,0.336,5.0,5.0,CT,PEQ,,,,
+UPCOM,Thương mại dầu khí,316.0,573.0,Dầu khí,Oil & Gas,2008.0,152.0,3691.0,0.002,http://www.petechim.com.vn,3.6,-0.066,-0.23,-0.472,20.0,20.0,CT,PTV,,,,
+HOSE,Petrolimex,144.0,533.0,Dầu khí,Oil & Gas,1995.0,25801.0,15165.0,0.178,https://www.petrolimex.com.vn,3.5,0.013,-0.032,-0.004,1270.6,1293.9,CT,PLX,,,,
+UPCOM,Bảo dưỡng công trình DK biển,316.0,573.0,Dầu khí,Oil & Gas,2007.0,521.0,339.0,0.003,http://pos.ptsc.com.vn,3.8,-0.027,-0.062,-0.171,40.0,40.0,CT,POS,,,,
+HNX,Bọc ống Dầu khí Việt Nam,316.0,573.0,Dầu khí,Oil & Gas,2007.0,158.0,2557.0,0.004,http://www.pvcoating.vn,3.7,-0.017,-0.1,-0.166,21.6,21.6,CT,PVB,,,,
+HNX,Hóa chất và Dịch vụ Dầu khí,316.0,573.0,Dầu khí,Oil & Gas,2005.0,348.0,0.0,0.008,http://www.pvchem.com.vn,3.4,-0.031,-0.063,-0.241,50.0,50.0,CT,PVC,,,,
+HOSE,Khoan Dầu khí PVDrilling,316.0,573.0,Dầu khí,Oil & Gas,2006.0,1958.0,0.0,0.227,http://www.pvdrilling.com.vn,3.5,-0.005,-0.076,0.045,555.9,556.3,CT,PVD,,,,
+UPCOM,Tư vấn Dầu khí,316.0,573.0,Dầu khí,Oil & Gas,2004.0,913.0,123.0,0.11,http://www.pve.vn,3.3,-0.108,-0.105,-0.137,25.0,25.0,CT,PVE,,,,
+UPCOM,PV Oil,144.0,533.0,Dầu khí,Oil & Gas,2008.0,711.0,16932.0,0.061,http://www.pvoil.com.vn,3.6,-0.005,-0.076,-0.226,1034.2,201.4,CT,OIL,,,,
+HNX,DVKT Dầu khí PTSC,316.0,573.0,Dầu khí,Oil & Gas,2006.0,7538.0,0.0,0.209,http://www.ptsc.com.vn,3.7,-0.009,-0.054,0.021,478.0,478.0,CT,PVS,,,,

@@ -1,0 +1,13 @@
+exchange,shortName,industryID,industryIDv2,industry,industryEn,establishedYear,noEmployees,noShareholders,foreignPercent,website,stockRating,deltaInWeek,deltaInMonth,deltaInYear,outstandingShare,issueShare,companyType,ticker,status,code,message,traceId
+UPCOM,BH NH Nông Nghiệp,292.0,8536.0,Bảo hiểm,Insurance,2006.0,748.0,0.0,0.098,http://www.abic.com.vn,3.8,-0.032,-0.027,-0.078,50.4,51.6,BH,ABI,,,,
+HOSE,Bảo hiểm BIDV,292.0,8536.0,Bảo hiểm,Insurance,1999.0,1170.0,1598.0,0.472,http://www.bic.vn,3.6,0.032,-0.031,0.122,117.3,117.3,BH,BIC,,,,
+UPCOM,Bảo hiểm Nhà Rồng,292.0,8536.0,Bảo hiểm,Insurance,2012.0,978.0,1275.0,0.007,http://www.baohiembaolong.vn,3.8,0.0,0.07,0.007,60.0,60.0,BH,BLI,,,,
+HOSE,Bảo hiểm Bảo Minh,292.0,8536.0,Bảo hiểm,Insurance,2004.0,1678.0,0.0,0.345,http://www.baominh.com.vn,3.6,-0.062,-0.1,-0.136,109.6,109.6,BH,BMI,,,,
+HOSE,Tập đoàn Bảo Việt,294.0,8575.0,Bảo hiểm,Insurance,2007.0,0.0,8682.0,0.274,https://www.baoviet.com.vn,3.8,-0.018,-0.037,0.123,742.3,742.3,BH,BVH,,,,
+HOSE,Bảo hiểm Quân đội,292.0,8536.0,Bảo hiểm,Insurance,2012.0,1957.0,0.0,0.144,https://www.mic.vn,3.6,0.036,0.113,-0.026,164.5,164.5,BH,MIG,,,,
+HOSE,Bảo hiểm PJICO,292.0,8536.0,Bảo hiểm,Insurance,1995.0,1497.0,0.0,0.206,http://www.pjico.com.vn,3.6,0.025,-0.02,0.226,110.9,110.9,BH,PGI,,,,
+HNX,Bảo hiểm Bưu điện,292.0,8536.0,Bảo hiểm,Insurance,1998.0,2539.0,9896.0,0.382,https://www.pti.com.vn,3.6,0.183,0.364,-0.114,80.4,80.4,BH,PTI,,,,
+HNX,Bảo hiểm PVI,292.0,8536.0,Bảo hiểm,Insurance,2006.0,2500.0,0.0,0.597,http://www.pvi.com.vn,3.6,0.057,0.002,0.3,234.2,234.2,BH,PVI,,,,
+HNX,Tái bảo hiểm PVI,293.0,8538.0,Bảo hiểm,Insurance,2013.0,42.0,106.0,0.005,http://www.pvire.com.vn,3.7,-0.067,-0.03,0.242,104.4,72.8,BH,PRE,,,,
+UPCOM,Bảo hiểm Hàng không,292.0,8536.0,Bảo hiểm,Insurance,2012.0,1647.0,0.0,0.001,http://www.vna-insurance.com,3.5,-0.056,-0.285,-0.025,100.0,100.0,BH,AIC,,,,
+HNX,Tái bảo hiểm Quốc gia,293.0,8538.0,Bảo hiểm,Insurance,2004.0,101.0,84.0,0.271,http://www.vinare.com.vn,3.6,-0.021,-0.06,0.006,150.7,150.7,BH,VNR,,,,
