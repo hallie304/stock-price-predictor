@@ -3,7 +3,7 @@
 *This is the final project of the course Deep Learning for Artificial Intelligence.*
 
 ## Contents
-### [Part 1: Explore Nasdaq Dataset]([1. data_nasdaq](https://github.com/hallie304/stock-price-predictor/tree/main/1.%20data_nasdaq))
+### [Part 1: Explore Nasdaq Dataset](https://github.com/hallie304/stock-price-predictor/tree/main/1.%20data_nasdaq)
 1. Basic CNN for a sample stock - AAL.
 2. Improve LSTM for top 30 companies (big cap).
 
