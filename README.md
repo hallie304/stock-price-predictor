@@ -7,15 +7,15 @@
 1. Basic CNN for a sample stock - AAL.
 2. Improve LSTM for top 30 companies (big cap).
 
-### [Part2: Explore Vietnamese Dataset](https://github.com/hallie304/stock-price-predictor/tree/main/2.%20data_vn_20230228)
+### [Part 2: Explore Vietnamese Dataset](https://github.com/hallie304/stock-price-predictor/tree/main/2.%20data_vn_20230228)
 1. Basic CNN for a sample stock - VNM.
 2. Improved LSTM for the bank sector.
 3. Pratice RNN on VN30 Index.
 
-### [Part3: Identify Trading Points](https://github.com/hallie304/stock-price-predictor/tree/main/3.%20identify-trading-points)
+### [Part 3: Identify Trading Points](https://github.com/hallie304/stock-price-predictor/tree/main/3.%20identify-trading-points)
 Signal Rolling Agent to predict the buying and selling points with a specific delays.
 
-### [Part4: Portfolio Optimization](https://github.com/hallie304/stock-price-predictor/tree/main/4.%20portfolio_optimization)
+### [Part 4: Portfolio Optimization](https://github.com/hallie304/stock-price-predictor/tree/main/4.%20portfolio_optimization)
 Apply a linear regression technique to identify the benchmark of the correlation state, which categorize the most and least optimal stocks given a bunch of tickers.
 
 ### [Part 5: Helper Functions](https://github.com/hallie304/stock-price-predictor/tree/main/helper_functions)
